@@ -17,7 +17,7 @@ form.addEventListener('submit', function(e) {
     atualizaMediaFinal();
 });
 
-function adicionaLinha (){
+function adicionaLinha () {
     const inputNomeAtividade = document.getElementById('nome-atividade');
     const inputNotaAtividade = document.getElementById('nota-atividade');
 
